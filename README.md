@@ -88,6 +88,13 @@ Using Power Query, the data was prepared for analysis by ensuring that:
 - The dataset was structured for use in Power BI.
 
 
+# Preview of Dataset
+
+<img width="892" height="486" alt="Image" src="https://github.com/user-attachments/assets/e2c52f27-cdf2-4d37-8f8f-b725eda77dfd" />
+
+
+
+
 ### Calendar Table
 
 A dedicated Calendar table was created in Power BI to support time-based analysis.
