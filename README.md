@@ -1,6 +1,11 @@
 # Financial Performance & Business Analysis Dashboard
 
 
+<img width="2002" height="1127" alt="Image" src="https://github.com/user-attachments/assets/fcb04088-f4aa-4137-848f-9977a124a751" />
+
+
+
+
 ## Project Structure
 
 - Project Overview
