@@ -108,6 +108,18 @@ with a: **1 : * (One-to-Many) relationship**
 This allowed the dashboard to perform monthly and time-based analysis and enabled measures such as YTD Revenue and Revenue Growth.
 
 
+# Preview of Calendar Table
+
+<img width="757" height="376" alt="Image" src="https://github.com/user-attachments/assets/3c32ea46-f7a4-4c05-8b61-d6a23018eca9" />
+
+
+
+# Preview of Data Modeling & Relationship Design
+
+<img width="712" height="333" alt="Image" src="https://github.com/user-attachments/assets/28556e05-3d7c-4af1-bf4e-ac8113e4c8ff" />
+
+
+
 ### DAX Measures
 
 Several DAX measures were created to calculate the financial KPIs.
@@ -227,6 +239,12 @@ This means actual revenue was approximately **12.55M** below the budget/target b
 This is an important management finding because although the company generated 534M in revenue, it did not fully achieve its overall budget target.
 
 The budget-versus-revenue visual allows management to identify the months where actual performance was below or above the expected target.
+
+
+# Preview of Financial Performance Dashboard
+
+
+<img width="742" height="413" alt="Image" src="https://github.com/user-attachments/assets/41c51e7d-08b7-42c5-a152-e1d355a78259" />
 
 
 
@@ -385,6 +403,11 @@ For example, management can select Q1 and immediately see:
 - How profitable the business was during that quarter
 
 This makes the dashboard interactive rather than simply presenting static figures.
+
+
+# Preview of Sales and Business Performance Dashboard
+
+<img width="737" height="415" alt="Image" src="https://github.com/user-attachments/assets/9b898f6e-d80e-44aa-87e5-9990d9fb6a0e" />
 
 
 
